@@ -1,0 +1,287 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.my-container
+{
+width: 100% !important;
+}
+
+.task-bar
+{
+  background-color: #703b09;
+  height:60px;
+  display: flex;
+}
+
+
+.burger-button
+{
+  margin-left: 82%;
+}
+.button1
+{
+  background-color: #703b09;
+  height:60px;
+  width:70px;
+  color: azure;
+  border-radius: 0%;
+  font-size: 18px;
+}
+
+.button2
+{
+  background-color: #703b09;
+  height:60px;
+  color: azure;
+  border-radius: 0%;
+  font-size: 18px;
+  width:150px;
+}
+
+.button3
+{
+  background-color: #703b09;
+  height:40px;
+  width:70px;
+  color: azure;
+  border-radius: 0%;
+  font-size: 18px;
+}
+
+.button4
+{
+  background-color: #c7c6c6;
+  height:70px;
+  width:200px;
+  color: azure;
+  border-radius: 0%;
+  font-size: 22px;
+}
+
+.gradients
+{
+  background-color: #cf8f2e;
+  justify-content: center !important;
+}
+
+.row
+{
+  width: 100% !important;
+}
+
+.lettuce
+{
+  display: flex;
+  margin-left: 40%;
+}
+
+.bacon
+{
+  display: flex;
+  margin-left: 40%;
+}
+.cheese
+{
+  display: flex;
+  margin-left: 40%;
+}
+.meat
+{
+  display: flex;
+  margin-left: 40%;
+}
+.price1
+{
+
+  margin-left: 43%;
+  padding-top: 20px;
+}
+.button-style
+{
+  margin-left: 10px;
+  margin-top: 15px;
+}
+
+.margin
+{
+  margin-right: 20px !important;
+}
+
+.margin1
+{
+  margin-right: 33px !important;
+}
+.margin2
+{
+  margin-right: 38px !important;
+}
+
+.sign-up-button
+{
+  margin-left: 42%;
+  margin-top: 20px;
+  padding-bottom: 20px;
+}
+
+.burger-style
+{
+  background-color: #703b09;
+}
+
+.burger23
+{
+  padding-top: 110px;
+  margin-left: 32%;
+}
+
+.burger25
+{
+  padding-bottom: 20px;
+  margin-left: 32%;
+max-height: 200px;
+}
+.burger-gradients
+{
+  margin-left: 10%;
+}
+
+.lett{
+  margin-left: 31%;
+}
+
+.ches{
+  margin-left: 30%;
+}
+.met{
+  margin-left: 32%;
+}
+
+.bac{
+  margin-left: 32%;
+}
+
+.login
+{
+  margin-left: 40% !important;
+  width: 25% !important;
+  color: #202124;
+   margin-top:30px;
+   text-align: left;
+    font: 400 16px/1.7777777778 Open sans,system-ui,-apple-system,sans-serif; 
+    box-sizing: border-box; 
+    -webkit-font-smoothing: antialiased; 
+    padding: 1rem!important; 
+    box-shadow: 0 .125rem .3rem -.0625rem rgba(0,0,0,.03),0 .275rem .75rem -.0625rem rgba(0,0,0,.06)!important;
+
+}
+.email
+{
+  width: 90%!important;
+  height:30px;
+}
+.login-style
+{
+  margin-top: 20px;
+  margin-left: 25px;
+}
+
+.submit
+{
+  margin-top: 30px;
+  margin-left: 40%;
+}
+.but
+{
+  background-color: white;
+  font-size: 18px;
+  color: darkgreen;
+}
+
+.signin
+{
+  margin-top: 30px;
+  margin-left: 40%;
+}
+.butt
+{
+  background-color: white;
+  font-size: 18px;
+  color:#703b09;
+}
+.space
+{
+  display:block; margin-bottom:10px;
+}
+
+.taste
+{
+  padding-top: 110px;
+  margin-left: 39%;
+}
+
+.confirm
+{
+  padding-top: 110px;
+  margin-left: 39% !important;
+  display: flex !important;
+}
+.right
+{
+  margin-right: 125px;
+}
+
+.login2
+{
+  margin-left: 38% !important;
+  width: 25% !important;
+  color: #202124;
+   margin-top:30px;
+   text-align: left;
+    font: 400 16px/1.7777777778 Open sans,system-ui,-apple-system,sans-serif; 
+    box-sizing: border-box; 
+    -webkit-font-smoothing: antialiased; 
+    padding: 1rem!important; 
+    box-shadow: 0 .125rem .3rem -.0625rem rgba(0,0,0,.03),0 .275rem .75rem -.0625rem rgba(0,0,0,.06)!important;
+
+}
+
+.login3
+{
+  margin-left: 15% !important;
+  width: 70% !important;
+  color: #202124;
+   margin-top:30px;
+   text-align: left;
+    font: 400 16px/1.7777777778 Open sans,system-ui,-apple-system,sans-serif; 
+    box-sizing: border-box; 
+    -webkit-font-smoothing: antialiased; 
+    padding: 1rem!important; 
+    box-shadow: 0 .125rem .3rem -.0625rem rgba(0,0,0,.03),0 .275rem .75rem -.0625rem rgba(0,0,0,.06)!important;
+
+}
+.display
+{
+  display: flex;
+}
+.ingre
+{
+  margin-left: 80px;
+  margin-left: 80px;
+}
+
+.scroll
+{
+  height: 460px;
+  overflow: scroll;
+}
